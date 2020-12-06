@@ -1,0 +1,45 @@
+/* CSS Rseet */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navigation Bar */
+#navbar {
+    display: flex;
+    align-items: center;
+}
+
+/* Navigation Bar: Logo and Image */
+#logo {
+    margin: 1px;
+}
+
+#logo img {
+    height: 30px;
+    margin: 0;
+}
+
+/* Navigation Bar: List Styling */
+#navbar ul {
+    display: flex;
+}
+
+#navbar ul li {
+    list-style: none;
+    font-size: 16px;
+}
+
+#navbar ul li a {
+    padding: 0 20px;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
